@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: Add button to profile if messaging is not available
+    settings:
+      example_setting: A description of a setting.
