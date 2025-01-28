@@ -1,2 +1,9 @@
-example_setting:
-  default: true
+button_url:
+  default: /s
+  description: "URL to link to on the button"
+button_text:
+  default: "How to Message"
+  description: "Text to display on the button"
+button_icon:
+  default: "envelope"
+  description: "Icon to display on the button"
